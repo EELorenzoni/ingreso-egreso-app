@@ -8,5 +8,4 @@ export const dasbhoardRoutes: Routes = [
     { path: '', component: EstadisticaComponent },
     { path: 'ingreso-egreso', component: IngresoEgresoComponent },
     { path: 'detalle', component: DetalleComponent },
-    { path: 'estadistica', component: EstadisticaComponent },
 ];
